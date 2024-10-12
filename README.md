@@ -16,4 +16,4 @@ provides a tool for processing information and building a sentiment analysis.
   After presenting some key concepts related to the analysis of financial markets,
 we give a brief overview of the sentiment analysis and the BERT model. We then build
 a model that assesses the overall sentiment expressed in news about a company in two
-different countries.
+different countries. 
